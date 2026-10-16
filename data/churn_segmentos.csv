@@ -1,0 +1,4 @@
+segmento_rfm,clientes_prueba,churn_observados,alertas_rf,churn_detectados,churn_no_detectados,puntuacion_media,tasa_churn_pct,recall_pct,precision_alertas_pct
+Baja actividad reciente,59,25,42,22,3,0.6073420983147416,42.3728813559322,88.0,52.38095238095239
+Activos de valor medio,239,30,51,19,11,0.296292049901483,12.552301255230123,63.33333333333333,37.25490196078432
+Alto valor y actividad,102,10,0,0,10,0.1561315417586753,9.803921568627452,0.0,

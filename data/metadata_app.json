@@ -1,0 +1,30 @@
+{
+  "proyecto": "TechStore Analytics Integrador",
+  "version": "1.0.0",
+  "modo_datos": "HISTORICOS_AGREGADOS",
+  "actualizacion_tiempo_real": false,
+  "publicacion": "NO_DESPLEGADA",
+  "kpis": {
+    "Clientes analizados": 2000,
+    "Ingresos transaccionales (€)": 3054844.9799999995,
+    "Segmentos RFM": 3,
+    "Clientes con alertas": 161,
+    "MAE ventas prueba (€)": 3893.807986103151,
+    "ROC-AUC churn prueba": 0.7758438576349024,
+    "ROI retención hipotético (%)": -55.214322913302595
+  },
+  "periodos": {
+    "ventas": "2021-2023",
+    "forecasting": "2024, proyección retrospectiva",
+    "clientes": "2025",
+    "churn": "Evaluación histórica de prueba"
+  },
+  "referencia_simulador": "2023-12-31",
+  "limitaciones": [
+    "El simulador no estima efectos causales.",
+    "El forecasting es retrospectivo.",
+    "Las métricas de churn son históricas.",
+    "El ROI es hipotético.",
+    "Los datos no se actualizan en tiempo real."
+  ]
+}
